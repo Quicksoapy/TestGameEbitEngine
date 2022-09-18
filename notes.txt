@@ -1,0 +1,3 @@
+To do:
+- not have NewImageFromFile, screen.size at every Draw for efficiency
+- save rotation of circle in variable to fix rotating
